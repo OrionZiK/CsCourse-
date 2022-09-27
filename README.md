@@ -1,3 +1,3 @@
-# ZincFirstJobApplying-
-My first job applying stuff，welcome to communicate.
-# 6.21 new start
+# CsCourse-
+All courses about computer science and development.
+Welcome to commit issue and codes:)
